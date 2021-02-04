@@ -1,3 +1,11 @@
+# lomacks NOTE
+
+***This fork is just a backup in case the original repo gets deleted at any point in the future.***
+
+Install directly from github using e.g. `npm install --save lomacks/dash-button`
+
+---
+ 
 # Dash Button for Node [![Circle CI](https://circleci.com/gh/ide/dash-button.svg?style=svg)](https://circleci.com/gh/ide/dash-button) [![codecov](https://codecov.io/gh/ide/dash-button/branch/master/graph/badge.svg)](https://codecov.io/gh/ide/dash-button) [![npm version](https://badge.fury.io/js/dash-button.svg)](http://badge.fury.io/js/dash-button)
 
 This project is archived. As of 2020, Amazon has disabled Dash Buttons. Various guides on the internet (e.g. [Rescue Your Amazon Dash Buttons](https://blog.christophermullins.com/2019/12/20/rescue-your-amazon-dash-buttons)) explain how to keep some Dash Buttons working but it is no longer as simple to customize Dash Buttons as before.
